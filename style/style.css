@@ -1,0 +1,379 @@
+h1{
+    display:inline;
+   font-size: 25px; 
+   position: relative;
+   left: 100px;
+}
+ul li a {
+    position: relative;
+    top: 30px;
+    font-size: 15PX;
+    color: black;
+    display: inline;
+    text-decoration: none;
+}
+.logo{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.france{
+    font-size: 30px;
+    position: relative;
+    top: 30px;
+}
+h5{
+    position: relative;
+    top: 20px;
+    position: relative;
+    right: 25px;
+}
+
+  ul li {
+      text-decoration: none;
+      display: inline;
+      position: relative;
+      left: 100px;
+      padding: 2%;
+      
+  } 
+  .liberté{
+      position: relative;
+      left: 100px;
+  }
+  .research{
+      position: relative;
+      right: 120px;
+      
+  }
+  .nav-item .nav-link{
+      display: inline;
+      padding: -20%;
+    
+  }
+  .monter{
+      position: relative;
+      bottom: 30px;
+      padding: 20px;
+      
+  }
+  .revenir{
+      position: relative;
+      left: 10px;
+  }
+ 
+  #box{
+      display: flex;
+      justify-content: center;
+      background-color:#ecf0f1;
+      margin: auto;
+      flex-direction:row;
+  }
+  .img0{
+      margin: top 10px;
+  }
+  #box1{
+      display: flex;
+      justify-content: center;
+      background-color: #ecf0f1;
+      flex-direction: row;
+      padding: 5%;
+      position: relative;
+      right: 80px;
+      width: 1000px;
+  }
+  .imgA{
+      display: flex;
+      flex-direction: column;
+      background-color:#ecf0f1;
+      justify-content: center;
+      width: 265px;
+      
+  }
+  .textA{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      width: 350px;
+      background-color: white;
+
+    }
+    .img1{
+        
+        height: 150px;
+        width: 300px;
+        
+    }
+  .text1{
+      padding: 2%;
+      font-size: 12px;
+      position: relative;
+      bottom: 40px;
+  }
+  #boxglobal1{
+      display: flex;
+      justify-content: center;
+      background-color: #ecf0f1;
+      flex-direction: row;
+  }
+  .section2{
+      display: flex;
+      flex-direction: column;
+      background-color: #ecf0f1;
+      position: relative;
+      top: 70PX;
+      right: 230px;
+      height: 730px;
+  }
+  .text2{
+      text-align: center;
+      font-size: 12Px;
+      border: 1px solid white;
+    width:300px ;
+    height: 200px;
+    text-justify: content;
+    padding: 2%;
+    margin: 2%;
+    background-color:  #ecf0f1;
+  }
+  #boxglobal2{
+      display: flex;
+      background-color: #ecf0f1;
+      flex-direction: row;
+      padding: 2%;
+      margin: 5%;
+      position: relative;
+      bottom: 100px;
+      width: 100%;
+
+  }
+  .section3{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      background-color: #ecf0f1;
+
+  }
+  .section4{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      background-color:#ecf0f1;
+  }
+  .section5{
+      display: flex;
+      flex-direction: column;
+    
+      background-color: #ecf0f1;
+      padding: 2%;
+      height: 400px;
+      position: relative;
+      bottom: 500px;
+  }
+  .pliens{
+      text-justify: center;
+      font-size: 12Px;
+      margin: 3%;
+     
+      width: 300px;
+      background-color: white;
+  }
+  .liens{
+      display: flex;
+      text-justify: auto;
+      flex-direction: column;
+      position: relative;
+      right: 95px;
+      position: relative;
+      bottom: 30px;
+      right: 120px;
+      text-align: justify;
+      font-size: 10px;
+      
+  }
+  .sect{
+      width: 300px;
+      margin:4% ;
+      position: relative;
+      bottom: 70px;
+      background-color: white;
+
+  }
+  .sp2{
+      position: relative;
+      bottom: 80px;
+      font-size: 20px;
+      color: blue;
+      border: 1px solid blue;
+  }
+  .phot{
+      position: relative;
+      bottom: 95px;
+  }
+  .carte{
+      position: relative;
+      right: 25px;
+      bottom: 30px;
+  }
+  .textecarte{
+      position: relative;
+      bottom: 20px;
+      font-size: 10px;
+  }
+  .iliiens{
+      padding: 5%;
+  }
+  .bff{
+      position: relative;
+      text-align: center;
+      top: 1px;
+  }
+  .cliquez{
+      position: relative;
+      bottom: 40px
+  }
+  .pcliquez{
+      font-size: 20px;
+      color: blue;
+      border: 1px solid blue;
+  }
+   .liensT{
+       font-size: 20px;
+       color: blue;
+       border: 1px solid blue;
+   }
+   .diplo{
+       font-size: 20px;
+       color: blue;
+       border: 1Px solid blue;
+   }
+  .sp22{
+      bottom: -20px;
+      bottom: 20px;
+      font-size: 28px;
+  }
+  .sp{
+      font-size: 20px;
+      color: blue;
+  }
+  body{
+      background-color:  #ecf0f1;
+      height: 60%;
+  }
+#boxfooter{
+    display: flex;
+  background-color: #323136;
+  flex-direction: row;
+  height: 200px;
+  position: relative;
+  bottom: 250px;
+  
+}
+.boxx1{
+    display: flex;
+    float: left;
+    text-justify: auto;
+    flex-direction: column;
+    position: relative;
+    left: 60px;
+}
+.boxx2{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 120px;
+    
+}
+   
+.boxx3{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 200px;
+}
+.tools {
+    width: 50px;
+    float: right;
+    position: relative;
+    margin: -5px 0 0;
+}
+
+.mentions{
+    position: relative;
+    right: 60px;
+}
+.faso{
+    position: relative;
+    right: 20px;
+    top: 20px;
+    border:bottom 2px solid white;
+    color: white;
+    font-size: 12px;
+}
+.outil{
+    position: relative;
+    top: 25px;
+    left: 30px;
+    color: white;
+    font-size: 12px;
+}
+.insti{
+    position: relative;
+    top: 20px;
+    left: 40px;
+    color: white;
+}
+.data{
+    position: relative;
+    left: 160px;
+    bottom: 100px;
+    position: relative;
+    bottom: 40px;
+}
+.propos{
+    position: relative;
+    left: 220px;
+    bottom: 70px;
+    
+}
+.textfinal{
+    color: white;
+    font-size: 12px;
+    position: relative;
+    top: 20px;
+}
+footer ul li a {
+    color: white;
+    font-size: 12px;
+    position: relative;
+    bottom: 60px;
+
+}
+.ser{
+    position: relative;
+    bottom: 70px;
+}
+.bar{
+    height: 1px;
+    width: 300px;
+    background-color: white;
+    position: relative;
+    top: 30px;
+    left: 80px;
+}
+.bar2{
+    height: 1px;
+    width: 300px;
+    background-color: white;
+    position: relative;
+    top: 30px;
+    left: 130px;
+}
+.bar3{
+    height: 1px;
+    width: 300px;
+    background-color: white;
+    position: relative;
+    top: 30px;
+    left: 140px;
+}
+
