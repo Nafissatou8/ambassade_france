@@ -50,6 +50,32 @@ h5{
       padding: -20%;
     
   }
+  .carousel-inner{
+    margin-left: 100px;
+    margin-right: 0px;
+width: 80%;
+margin-top: 50px; }
+.image img{
+    width: 40%;
+    float: right;
+    margin-bottom: 700px;
+}
+img{
+    width: 100%;
+}
+.text{
+    width: 40%;
+    float: left;
+    background-color: blue;
+
+}
+.text h1{
+    font-size: 20px;
+    margin-right: 100px;
+    display: flex;
+    position: relative;
+    right: 120px;
+}
   .monter{
       position: relative;
       bottom: 30px;
@@ -259,121 +285,68 @@ h5{
       background-color:  #ecf0f1;
       height: 60%;
   }
-#boxfooter{
-    display: flex;
-  background-color: #323136;
-  flex-direction: row;
-  height: 200px;
-  position: relative;
-  bottom: 250px;
-  
+  footer{
+    width: 100%;
+    background-color: rgb(49, 45, 49);
+    color: white;
 }
-.boxx1{
+.contenu-footer{
+    width: 100%;
+    margin: 0 auto ;
     display: flex;
-    float: left;
-    text-justify: auto;
-    flex-direction: column;
-    position: relative;
-    left: 60px;
-}
-.boxx2{
-    display: flex;
-    flex-direction: column;
-    position: relative;
-    left: 120px;
+    justify-content: center;
+    align-items: flex-start;
     
-}
+     padding: px 0 px;
    
-.boxx3{
-    display: flex;
-    flex-direction: column;
-    position: relative;
-    left: 200px;
 }
-.tools {
-    width: 50px;
-    float: right;
-    position: relative;
-    margin: -5px 0 0;
-}
-
-.mentions{
-    position: relative;
-    right: 60px;
-}
-.faso{
-    position: relative;
-    right: 20px;
-    top: 20px;
-    border:bottom 2px solid white;
-    color: white;
-    font-size: 12px;
-}
-.outil{
-    position: relative;
-    top: 25px;
-    left: 30px;
-    color: white;
-    font-size: 12px;
-}
-.insti{
-    position: relative;
-    top: 20px;
-    left: 40px;
-    color: white;
-}
-.data{
-    position: relative;
-    left: 160px;
-    bottom: 100px;
-    position: relative;
-    bottom: 40px;
-}
-.propos{
-    position: relative;
-    left: 220px;
-    bottom: 70px;
+.bloc{
+     width: 27% ;
+     padding-bottom: 0px;
+     margin-top: 30px;
+ 
+     
     
 }
-.textfinal{
-    color: white;
-    font-size: 12px;
-    position: relative;
-    top: 20px;
-}
-footer ul li a {
-    color: white;
-    font-size: 12px;
-    position: relative;
-    bottom: 60px;
+.flex{
+    display: flex;
+
+
 
 }
-.ser{
-    position: relative;
-    bottom: 70px;
+span{
+    font-size: 19px;
+    margin-left: 43px;
+    text-decoration-color: white
+    
 }
-.bar{
-    height: 1px;
+.france1,
+.france2,
+.outils,
+.liens1,
+.liens2{
+    list-style: none;
+    font-size: 1px;
+    color: white;
+    font-size: 12px;
+    margin-bottom: 70px;
+   
+}
+.t1{
     width: 300px;
-    background-color: white;
-    position: relative;
-    top: 30px;
-    left: 80px;
-}
-.bar2{
     height: 1px;
-    width: 300px;
     background-color: white;
-    position: relative;
-    top: 30px;
-    left: 130px;
-}
-.bar3{
-    height: 1px;
-    width: 300px;
-    background-color: white;
-    position: relative;
-    top: 30px;
-    left: 140px;
-}
-
+    margin-left: 40px;
+    ;
+    }
+    .t2{ width: 250px;
+        height: 1px;
+        background-color: white;
+        margin-left: 40px;
+        }
+        .t3{
+            width: 250px;
+            height: 1px;
+            background-color: white;
+            margin-left: 40px;
+            }
